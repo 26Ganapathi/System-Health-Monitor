@@ -36,8 +36,8 @@ system_health_monitor/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/system-health-monitor.git
-   cd system-health-monitor
+   git clone https://github.com/your-username/System-Health-Monitor.git
+   cd System-Health-Monitor
    ```
 2. Install dependencies:
    ```
