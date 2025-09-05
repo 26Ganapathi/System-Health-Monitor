@@ -1,6 +1,3 @@
-# System-Health-Monitor
-System Health Monitor — A lightweight Python script that continuously monitors CPU, memory, and disk usage, logs alerts when thresholds are exceeded, and helps in basic troubleshooting of system resources.
-
 # 🖥️ System Health Monitor
 
 A lightweight Python script that monitors **CPU, memory, and disk usage** and logs alerts when usage crosses defined thresholds.  
@@ -25,6 +22,8 @@ Useful for **basic troubleshooting**, **system monitoring**, and as a learning p
 ---
 
 ## 📂 Project Structure
+
+```bash
 system_health_monitor/
 ├── system_health.py # Main script
 ├── system_health.log # Log file (created after running)
@@ -36,16 +35,19 @@ system_health_monitor/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   
+
+   ```bash
    git clone https://github.com/your-username/system-health-monitor.git
    cd system-health-monitor
    
 2. Install dependencies:
 
+   ```bash
    pip install psutil
 
 3.Run the monitor:
 
-  python system_health.py
+   ```bash
+   python system_health.py
 
 
