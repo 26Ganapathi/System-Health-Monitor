@@ -35,20 +35,15 @@ system_health_monitor/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-
    ```
    git clone https://github.com/your-username/system-health-monitor.git
    cd system-health-monitor
    ```
-   
 2. Install dependencies:
-
    ```
    pip install psutil
    ```
-
-3.Run the monitor:
-
+3. Run the monitor:
    ```
    python system_health.py
    ```
