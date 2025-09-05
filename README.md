@@ -28,26 +28,29 @@ system_health_monitor/
 ├── system_health.py # Main script
 ├── system_health.log # Log file (created after running)
 └── README.md # Project documentation
+```
 
 
----
 
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/system-health-monitor.git
    cd system-health-monitor
+   ```
    
 2. Install dependencies:
 
-   ```bash
+   ```
    pip install psutil
+   ```
 
 3.Run the monitor:
 
-   ```bash
+   ```
    python system_health.py
+   ```
 
 
