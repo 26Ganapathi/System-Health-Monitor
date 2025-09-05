@@ -48,4 +48,17 @@ system_health_monitor/
    python system_health.py
    ```
 
+## 📜 License
 
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project.
+
+## 📊 Sample Log Output
+
+```
+[2025-09-05 14:10:12] --- System monitor started ---
+[2025-09-05 14:11:13] ALERT: CPU usage is high: 92.3%
+[2025-09-05 14:11:13] ALERT: Memory usage is high: 85.0%
+[2025-09-05 14:11:13] ALERT: Disk usage is high on '/': 91.2%
+[2025-09-05 14:12:14] --- System monitor stopped ---
+```
